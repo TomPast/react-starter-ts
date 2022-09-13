@@ -1,5 +1,7 @@
 # React Starter Kit Typescript
 
+> **_NOTE:_** This starter kit is available on NPM registry : [@tompast/react-starter-ts](https://www.npmjs.com/package/@tompast/react-starter-ts). You can create a new project using : `npx @tompast/react-starter-ts <APP_NAME>`
+
 My starter project to create [React](https://reactjs.org/) application with typescript
 
 ## Features
@@ -25,8 +27,12 @@ My starter project to create [React](https://reactjs.org/) application with type
 ## Getting Started
 
 ```
-$ git clone https://github.com/TomPast/react-starter-ts.git my-app
-$ cd ./my-app
+$ npx @tompast/react-starter-ts <APP_NAME>
+
+OR
+
+$ git clone https://github.com/TomPast/react-starter-ts.git <APP_NAME>
+$ cd ./<APP_NAME>
 $ npm install
 $ npm start
 ```
