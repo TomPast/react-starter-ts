@@ -13,7 +13,7 @@ My starter project to create [React](https://reactjs.org/) application with type
 
 ## Tech Stack
 
-- [React](https://reactjs.org/), [React Router](https://reactrouter.com/)
+- [React](https://reactjs.org/)
 - [Vite](https://vitejs.dev/),
   [TypeScript](https://www.typescriptlang.org/), [ESLint](https://eslint.org/),
   [Prettier](https://prettier.io/), [Jest](https://jestjs.io/),
